@@ -3,5 +3,12 @@
 
     <string name="hello">Hello World, Seti23!</string>
     <string name="app_name">Seti23</string>
+    <string name="eingabefeld">Bitte Textnachricht eingeben.</string>
+    <string name="button_irc">IRC</string>
+    <string name="button_ticket">TICKET</string>
+    <string name="error_name_missing">Feld ist leer.</string>
+	<string name="error_ok">OK</string>
+	<string name="hi_greeting">Hi %s!</string>
+	<string name="hello_greeting">Hello %s!</string>
 
 </resources>
